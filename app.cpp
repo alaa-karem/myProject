@@ -21,4 +21,5 @@ int main()
     Invincible
     cout<<"Hello GitHub"<<el
     cout<<isPrime(13)<<el
+    cout<<"Just for New update"<<el
 }
